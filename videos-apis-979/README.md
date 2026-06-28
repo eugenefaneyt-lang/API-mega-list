@@ -1026,7 +1026,4 @@ For a comprehensive guide to gathering Bouyon music data, including code example
 
 ---
 
-990. 
-991. ---
-992. 
-993. <p align="center"><a href="../README.md">← Back to main API list</a></p>
+<p align="center"><a href="../README.md">← Back to main API list</a></p>
