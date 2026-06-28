@@ -108,6 +108,10 @@ This collection contains **10,498 ready-to-use APIs** that you can integrate dir
 - [Travel](./travel-apis-397/) - 397 APIs
 - [Videos](./videos-apis-979/) - 979 APIs
 
+### 🎵 Genre Guides & Specialized Resources
+
+- [YouTube Bouyon Genre Resources](./BOUYON_GENRE_RESOURCES.md) - Complete guide to gathering Bouyon music data from YouTube and music APIs
+
 ---
 
 <a id="agents"></a>

@@ -990,4 +990,43 @@
 
 ---
 
-<p align="center"><a href="../README.md">← Back to main API list</a></p>
+## 🎵 Bouyon Music Genre - YouTube Resources
+
+### About Bouyon
+**Bouyon** is a vibrant music genre originating from **Dominica**, characterized by its energetic rhythmic patterns and cultural significance in Caribbean music. This section provides specialized APIs and resources for gathering, analyzing, and working with Bouyon music content from YouTube.
+
+### Popular Bouyon Search Queries
+- `bouyon music` - General search for Bouyon tracks
+- `Dominica bouyon` - Region-specific results
+- `bouyon mix` - DJ mixes and compilations
+- `bouyon dance` - Dance performances and tutorials
+- `WCK bouyon` - Popular Bouyon band content
+- `bouyon live` - Live performances and concerts
+- `bouyon party` - Party and celebration videos
+
+### Recommended APIs for Bouyon Content
+
+| API Name | Best For | Link |
+|----------|----------|------|
+| **YouTube Data API v3** | Comprehensive search and metadata extraction | [Google Developers](https://developers.google.com/youtube/v3) |
+| **🌟 Youtube Transcript Scraper** | Extract lyrics and transcripts from Bouyon videos | [Apify Link](https://apify.com/supreme_coder/youtube-transcript-scraper?fpr=p2hrc6) |
+| **✨ Free Youtube Playlist Scraper** | Gather all videos from Bouyon playlists | [Apify Link](https://apify.com/toludare/youtube-playlist-scraper?fpr=p2hrc6) |
+| **🎬 Youtube Playlist Extractor** | Extract complete playlist structures | [Apify Link](https://apify.com/dz_omar/youtube-playlist-extractor?fpr=p2hrc6) |
+| **💬 YouTube Comments Scraper** | Analyze audience engagement on Bouyon videos | [Apify Link](https://apify.com/dz_omar/youtube-comments-scraper?fpr=p2hrc6) |
+| **🎵 YouTube Audio/MP3 Downloader** | Extract audio from Bouyon music videos | [Apify Link](https://apify.com/scrapearchitect/youtube-audio-mp3-downloader?fpr=p2hrc6) |
+| **🏯 Youtube Channel Scraper** | Extract all videos from Bouyon artist channels | [Apify Link](https://apify.com/apidojo/youtube-channel-scraper?fpr=p2hrc6) |
+
+### Music Metadata APIs
+- **Genius API** - For lyrics and artist information
+- **Spotify API** - For audio metadata and playlists (limited Bouyon coverage)
+- **MusicBrainz API** - For comprehensive artist and recording metadata
+
+### Complete Bouyon Resources Guide
+For a comprehensive guide to gathering Bouyon music data, including code examples, database creation, and best practices, see: **[YouTube Bouyon Genre Resources](../BOUYON_GENRE_RESOURCES.md)**
+
+---
+
+990. 
+991. ---
+992. 
+993. <p align="center"><a href="../README.md">← Back to main API list</a></p>
